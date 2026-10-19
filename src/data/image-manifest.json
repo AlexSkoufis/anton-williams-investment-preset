@@ -1,0 +1,606 @@
+{
+ "atchafalaya": {
+  "width": 3306,
+  "height": 2479,
+  "sources": [
+   {
+    "w": 480,
+    "src": "/img/atchafalaya-480.webp"
+   },
+   {
+    "w": 800,
+    "src": "/img/atchafalaya-800.webp"
+   },
+   {
+    "w": 1200,
+    "src": "/img/atchafalaya-1200.webp"
+   },
+   {
+    "w": 1800,
+    "src": "/img/atchafalaya-1800.webp"
+   },
+   {
+    "w": 2400,
+    "src": "/img/atchafalaya-2400.webp"
+   }
+  ],
+  "blur": "data:image/webp;base64,UklGRmQAAABXRUJQVlA4IFgAAABwBACdASoYABIAPu1qrFEppaQ5KAqrIB2JZQC/OA9oVETH7B06WyAA03viAAD+6/5kszyqINr0SYOFUj8Y0BH0nARpaQ8Sk3S3/+nNnRogYjdZ+bJ2QUAA"
+ },
+ "bluff-1864": {
+  "width": 2751,
+  "height": 2064,
+  "sources": [
+   {
+    "w": 480,
+    "src": "/img/bluff-1864-480.webp"
+   },
+   {
+    "w": 800,
+    "src": "/img/bluff-1864-800.webp"
+   },
+   {
+    "w": 1200,
+    "src": "/img/bluff-1864-1200.webp"
+   },
+   {
+    "w": 1800,
+    "src": "/img/bluff-1864-1800.webp"
+   },
+   {
+    "w": 2400,
+    "src": "/img/bluff-1864-2400.webp"
+   }
+  ],
+  "blur": "data:image/webp;base64,UklGRk4AAABXRUJQVlA4IEIAAABQBACdASoYABIAPu1mrE+ppSQiMBgIATAdiWcAvVgQ7kece+At85R4q0EAAP7C9IE2DaXDU0b6gWsRzCDqAxwbgAA="
+ },
+ "cbot-1885": {
+  "width": 2146,
+  "height": 3108,
+  "sources": [
+   {
+    "w": 480,
+    "src": "/img/cbot-1885-480.webp"
+   },
+   {
+    "w": 800,
+    "src": "/img/cbot-1885-800.webp"
+   },
+   {
+    "w": 1200,
+    "src": "/img/cbot-1885-1200.webp"
+   },
+   {
+    "w": 1800,
+    "src": "/img/cbot-1885-1800.webp"
+   },
+   {
+    "w": 2146,
+    "src": "/img/cbot-1885-2146.webp"
+   }
+  ],
+  "blur": "data:image/webp;base64,UklGRoAAAABXRUJQVlA4IHQAAACQBQCdASoYACMAPu1ur1KppiQipWmZMB2JaQAA/SXPCUhqD6u194d8DcqQFvzMx1Gj3ltucAD+9gpLpmRVO5xAl3PMdCj/BjMUaDGM0PI2rCKgPCEGs7H+p20bGrUiTqi4vibTL3tOwrK/8FwFH668AAAAAA=="
+ },
+ "concordia-field": {
+  "width": 3840,
+  "height": 2534,
+  "sources": [
+   {
+    "w": 480,
+    "src": "/img/concordia-field-480.webp"
+   },
+   {
+    "w": 800,
+    "src": "/img/concordia-field-800.webp"
+   },
+   {
+    "w": 1200,
+    "src": "/img/concordia-field-1200.webp"
+   },
+   {
+    "w": 1800,
+    "src": "/img/concordia-field-1800.webp"
+   },
+   {
+    "w": 2400,
+    "src": "/img/concordia-field-2400.webp"
+   }
+  ],
+  "blur": "data:image/webp;base64,UklGRlAAAABXRUJQVlA4IEQAAACQAwCdASoYABAAPu1orU2ppqSiMAgBMB2JZwDE2CHWLzP3EG2gAP7tfQ87n9Kkf+U9n09aKTsbcbljpbAbKSkMlgcAAA=="
+ },
+ "forest-homochitto": {
+  "width": 3840,
+  "height": 2880,
+  "sources": [
+   {
+    "w": 480,
+    "src": "/img/forest-homochitto-480.webp"
+   },
+   {
+    "w": 800,
+    "src": "/img/forest-homochitto-800.webp"
+   },
+   {
+    "w": 1200,
+    "src": "/img/forest-homochitto-1200.webp"
+   },
+   {
+    "w": 1800,
+    "src": "/img/forest-homochitto-1800.webp"
+   },
+   {
+    "w": 2400,
+    "src": "/img/forest-homochitto-2400.webp"
+   }
+  ],
+  "blur": "data:image/webp;base64,UklGRloAAABXRUJQVlA4IE4AAADQAwCdASoYABIAPu1mrE+ppSQjMBgIATAdiWUAwzQIGUpsFQQx4QAA/oMnOBoiWWZNuXnfSZrZLjwDD+T15xXFq5qG82vhf4yJfs1IAAA="
+ },
+ "gloucester-1938": {
+  "width": 919,
+  "height": 732,
+  "sources": [
+   {
+    "w": 480,
+    "src": "/img/gloucester-1938-480.webp"
+   },
+   {
+    "w": 800,
+    "src": "/img/gloucester-1938-800.webp"
+   },
+   {
+    "w": 919,
+    "src": "/img/gloucester-1938-919.webp"
+   }
+  ],
+  "blur": "data:image/webp;base64,UklGRmgAAABXRUJQVlA4IFwAAACQBACdASoYABMAPu1oqk+ppiOiKA1RMB2JZwC9WAph9Ms1GZiUR/vfaTgu0AAA+eelpdvqBpHBqhX44UQWjy7kkK+VmjdF8+Ho/0OJHQ53W1yhMFSEvN42IiAAAA=="
+ },
+ "hay-mayersville": {
+  "width": 3840,
+  "height": 2560,
+  "sources": [
+   {
+    "w": 480,
+    "src": "/img/hay-mayersville-480.webp"
+   },
+   {
+    "w": 800,
+    "src": "/img/hay-mayersville-800.webp"
+   },
+   {
+    "w": 1200,
+    "src": "/img/hay-mayersville-1200.webp"
+   },
+   {
+    "w": 1800,
+    "src": "/img/hay-mayersville-1800.webp"
+   },
+   {
+    "w": 2400,
+    "src": "/img/hay-mayersville-2400.webp"
+   }
+  ],
+  "blur": "data:image/webp;base64,UklGRlgAAABXRUJQVlA4IEwAAACwAwCdASoYABAAPu1krU2ppaSiMAgBMB2JZgCdACHVBq5i+m5mgAD+kEG527FUubSaDnu0gI79zXC5Uoc3iKOh+i2J5SCBoQAJzaAA"
+ },
+ "homochitto-river": {
+  "width": 3840,
+  "height": 2438,
+  "sources": [
+   {
+    "w": 480,
+    "src": "/img/homochitto-river-480.webp"
+   },
+   {
+    "w": 800,
+    "src": "/img/homochitto-river-800.webp"
+   },
+   {
+    "w": 1200,
+    "src": "/img/homochitto-river-1200.webp"
+   },
+   {
+    "w": 1800,
+    "src": "/img/homochitto-river-1800.webp"
+   },
+   {
+    "w": 2400,
+    "src": "/img/homochitto-river-2400.webp"
+   }
+  ],
+  "blur": "data:image/webp;base64,UklGRlgAAABXRUJQVlA4IEwAAADQAwCdASoYAA8APu1krU6ppaSiMAgBMB2JQBOj+ABgWfEkJKN7WPAA/lK1C0tMSE4k6ERMN5CbLaaJrhx4zGhqiw2jKn8ZkOPUAAAA"
+ },
+ "longleaf": {
+  "width": 3633,
+  "height": 2400,
+  "sources": [
+   {
+    "w": 480,
+    "src": "/img/longleaf-480.webp"
+   },
+   {
+    "w": 800,
+    "src": "/img/longleaf-800.webp"
+   },
+   {
+    "w": 1200,
+    "src": "/img/longleaf-1200.webp"
+   },
+   {
+    "w": 1800,
+    "src": "/img/longleaf-1800.webp"
+   },
+   {
+    "w": 2400,
+    "src": "/img/longleaf-2400.webp"
+   }
+  ],
+  "blur": "data:image/webp;base64,UklGRmQAAABXRUJQVlA4IFgAAACwAwCdASoYABAAPu1krU6ppaSiMAgBMB2JZgCdMoACocXtoivWAAD+mOl0w6acD6fnPgROAK3Ji8ucIcO2wUyZbbhxUIpG+xbdHVfkR0Mq2vO7KhHfFQAA"
+ },
+ "ohio-river": {
+  "width": 3840,
+  "height": 2527,
+  "sources": [
+   {
+    "w": 480,
+    "src": "/img/ohio-river-480.webp"
+   },
+   {
+    "w": 800,
+    "src": "/img/ohio-river-800.webp"
+   },
+   {
+    "w": 1200,
+    "src": "/img/ohio-river-1200.webp"
+   },
+   {
+    "w": 1800,
+    "src": "/img/ohio-river-1800.webp"
+   },
+   {
+    "w": 2400,
+    "src": "/img/ohio-river-2400.webp"
+   }
+  ],
+  "blur": "data:image/webp;base64,UklGRmgAAABXRUJQVlA4IFwAAADwAwCdASoYABAAPu1qrU8ppiQiMAgBMB2JYwCdACHUn/n2YiS3fmAAAP38XHFmZudljsh6wEqpA3D6NT8jDpiatnoVWJvUC1gUhJrani5BlQjLm+LgmFVtq5oAAA=="
+ },
+ "pine-nara": {
+  "width": 3840,
+  "height": 3032,
+  "sources": [
+   {
+    "w": 480,
+    "src": "/img/pine-nara-480.webp"
+   },
+   {
+    "w": 800,
+    "src": "/img/pine-nara-800.webp"
+   },
+   {
+    "w": 1200,
+    "src": "/img/pine-nara-1200.webp"
+   },
+   {
+    "w": 1800,
+    "src": "/img/pine-nara-1800.webp"
+   },
+   {
+    "w": 2400,
+    "src": "/img/pine-nara-2400.webp"
+   }
+  ],
+  "blur": "data:image/webp;base64,UklGRm4AAABXRUJQVlA4IGIAAABwBACdASoYABMAPulcpk2pJSOiN/VYASAdCWMAvzgQ3Q50Ykng8rexbdWQHAD+4Jqjl4r//8se00mSRr6GRhv2BMsty9fxVJVvHSPEkI3r686nWNYKXG8JEB3nn3zMhSAAAA=="
+ },
+ "pumpjack-permian": {
+  "width": 3840,
+  "height": 2560,
+  "sources": [
+   {
+    "w": 480,
+    "src": "/img/pumpjack-permian-480.webp"
+   },
+   {
+    "w": 800,
+    "src": "/img/pumpjack-permian-800.webp"
+   },
+   {
+    "w": 1200,
+    "src": "/img/pumpjack-permian-1200.webp"
+   },
+   {
+    "w": 1800,
+    "src": "/img/pumpjack-permian-1800.webp"
+   },
+   {
+    "w": 2400,
+    "src": "/img/pumpjack-permian-2400.webp"
+   }
+  ],
+  "blur": "data:image/webp;base64,UklGRmIAAABXRUJQVlA4IFYAAAAQBACdASoYABAAPu1iqU2ppaOiMAgBMB2JZACdMoADMGpNulMKbDLuAADxxoda8vMXQudEVwu1okzP21sEcw60PAfyzEdFi4jwpNpjhlqBBxGItcAAAA=="
+ },
+ "river-natchez": {
+  "width": 2560,
+  "height": 1920,
+  "sources": [
+   {
+    "w": 480,
+    "src": "/img/river-natchez-480.webp"
+   },
+   {
+    "w": 800,
+    "src": "/img/river-natchez-800.webp"
+   },
+   {
+    "w": 1200,
+    "src": "/img/river-natchez-1200.webp"
+   },
+   {
+    "w": 1800,
+    "src": "/img/river-natchez-1800.webp"
+   },
+   {
+    "w": 2400,
+    "src": "/img/river-natchez-2400.webp"
+   }
+  ],
+  "blur": "data:image/webp;base64,UklGRmoAAABXRUJQVlA4IF4AAAAwBACdASoYABIAPu1kqU2ppaOiMAgBMB2JZwDG9B5lj91GxVkrjP69uQAA/tOFYKkOQIYEKEpERYvb9jU4gR3Dh6S3MWTTijqKz6jgs94r4t9xyC/krsIJHpyHCAAA"
+ },
+ "solar-farm": {
+  "width": 3840,
+  "height": 2880,
+  "sources": [
+   {
+    "w": 480,
+    "src": "/img/solar-farm-480.webp"
+   },
+   {
+    "w": 800,
+    "src": "/img/solar-farm-800.webp"
+   },
+   {
+    "w": 1200,
+    "src": "/img/solar-farm-1200.webp"
+   },
+   {
+    "w": 1800,
+    "src": "/img/solar-farm-1800.webp"
+   },
+   {
+    "w": 2400,
+    "src": "/img/solar-farm-2400.webp"
+   }
+  ],
+  "blur": "data:image/webp;base64,UklGRmAAAABXRUJQVlA4IFQAAACQAwCdASoYABIAPu1mqk2ppaQiMAgBMB2JQBdgBDsv+6f9/mnAAPyLueRdgftvq0jotqqcmq1no5tWwES50IQTTEd0iN6z+U6iiiJ/Z6ikuoyeAAA="
+ },
+ "wind-pumpjack": {
+  "width": 3840,
+  "height": 2555,
+  "sources": [
+   {
+    "w": 480,
+    "src": "/img/wind-pumpjack-480.webp"
+   },
+   {
+    "w": 800,
+    "src": "/img/wind-pumpjack-800.webp"
+   },
+   {
+    "w": 1200,
+    "src": "/img/wind-pumpjack-1200.webp"
+   },
+   {
+    "w": 1800,
+    "src": "/img/wind-pumpjack-1800.webp"
+   },
+   {
+    "w": 2400,
+    "src": "/img/wind-pumpjack-2400.webp"
+   }
+  ],
+  "blur": "data:image/webp;base64,UklGRmAAAABXRUJQVlA4IFQAAACwAwCdASoYABAAPu1iqU2ppaQiMAgBMB2JYgCdAApMHcyuPQ5hgAD+nqCOpauYJrI667R6SLh3NJMyFnG0v0PM5tPyDMUAwYOAdbktYxf9a+AAAAA="
+ },
+ "anton-portrait": {
+  "width": 824,
+  "height": 742,
+  "sources": [
+   {
+    "w": 480,
+    "src": "/img/anton-portrait-480.webp"
+   },
+   {
+    "w": 800,
+    "src": "/img/anton-portrait-800.webp"
+   }
+  ],
+  "blur": "data:image/webp;base64,UklGRogAAABXRUJQVlA4IHwAAACQBQCdASoYABUAPuFipk2opiOiN/VYARAcCWQAnTLfAaGNuzx5NyVtqvWumorFt9XDbHbJgAD+6nYCbxKd9pQciZNxBdRn178b2AmfpwkPbpZjC5j8I7of6CUaD3/IA23OlpS3n2D0mbOgcoFU7qhniIHZMDcWXpp+LRAA"
+ },
+ "ap-williams": {
+  "width": 1016,
+  "height": 1016,
+  "sources": [
+   {
+    "w": 480,
+    "src": "/img/ap-williams-480.webp"
+   },
+   {
+    "w": 800,
+    "src": "/img/ap-williams-800.webp"
+   },
+   {
+    "w": 1016,
+    "src": "/img/ap-williams-1016.webp"
+   }
+  ],
+  "blur": "data:image/webp;base64,UklGRngAAABXRUJQVlA4IGwAAAAwBQCdASoYABgAPu1oqlAppaOiqA1RMB2JZQC/OA3yw5chyqp2o+8XWRdntEe5yEtrvAD+nvk68qMJAoNvevDf5BaRB0Dh9Y9VFh07am4tD1YvH8Cw0ddmiUqpVZuq/+dnfGg2PgC1SgeNJAA="
+ },
+ "clip-1855": {
+  "width": 1280,
+  "height": 1280,
+  "sources": [
+   {
+    "w": 480,
+    "src": "/img/clip-1855-480.webp"
+   },
+   {
+    "w": 800,
+    "src": "/img/clip-1855-800.webp"
+   },
+   {
+    "w": 1200,
+    "src": "/img/clip-1855-1200.webp"
+   }
+  ],
+  "blur": "data:image/webp;base64,UklGRmAAAABXRUJQVlA4IFQAAAAwBACdASoYABgAPt1cpU2opaOiN/qoARAbiWkAzFghwv285ff32kGBygAA/rCAQqeE0myxbvPXRFqwi573QOSn/LbWnc9hLxsMwi8zzHkXTzHAAAA="
+ },
+ "clip-board": {
+  "width": 973,
+  "height": 1121,
+  "sources": [
+   {
+    "w": 480,
+    "src": "/img/clip-board-480.webp"
+   },
+   {
+    "w": 800,
+    "src": "/img/clip-board-800.webp"
+   },
+   {
+    "w": 973,
+    "src": "/img/clip-board-973.webp"
+   }
+  ],
+  "blur": "data:image/webp;base64,UklGRkYAAABXRUJQVlA4IDoAAAAwAwCdASoYABwAPu1uq1EppqOiqAqpMB2JaQAAPgCHLxcgAP7mlQVhfh4atG6l/iaswQpHmQ3ggAAA"
+ },
+ "clip-county": {
+  "width": 1165,
+  "height": 1481,
+  "sources": [
+   {
+    "w": 480,
+    "src": "/img/clip-county-480.webp"
+   },
+   {
+    "w": 800,
+    "src": "/img/clip-county-800.webp"
+   },
+   {
+    "w": 1165,
+    "src": "/img/clip-county-1165.webp"
+   }
+  ],
+  "blur": "data:image/webp;base64,UklGRmIAAABXRUJQVlA4IFYAAABwBACdASoYAB8APu1orE+ppaQiMBgIATAdiWdg61pkhFLKdcUyTNe/4MGAAAD9MTlsrK02NoRjDoY8pORBhiKfrTPq8gH3erD+UBfNvkTbpBlJEwAAAA=="
+ },
+ "clip-duckpond": {
+  "width": 514,
+  "height": 578,
+  "sources": [
+   {
+    "w": 480,
+    "src": "/img/clip-duckpond-480.webp"
+   }
+  ],
+  "blur": "data:image/webp;base64,UklGRlIAAABXRUJQVlA4IEYAAABQBACdASoYABsAPu1iqU4ppaOiMAgBMB2JaQAAW+s2zNW5GUTK/ZzYOCgAAP7FzgT07+lxbXWRS2qkyLvbcnOjIznEAAAA"
+ },
+ "clip-families": {
+  "width": 828,
+  "height": 780,
+  "sources": [
+   {
+    "w": 480,
+    "src": "/img/clip-families-480.webp"
+   },
+   {
+    "w": 800,
+    "src": "/img/clip-families-800.webp"
+   }
+  ],
+  "blur": "data:image/webp;base64,UklGRlYAAABXRUJQVlA4IEoAAACQBACdASoYABcAPu1gp04ppSMiMBgMATAdiWkAAC51m5nxo+ogy9z95xuvQAAA/uCQgTkVlzIMgUwY+LABy8SRkZFKpQABVxgAAA=="
+ },
+ "clip-gloucester": {
+  "width": 821,
+  "height": 1206,
+  "sources": [
+   {
+    "w": 480,
+    "src": "/img/clip-gloucester-480.webp"
+   },
+   {
+    "w": 800,
+    "src": "/img/clip-gloucester-800.webp"
+   }
+  ],
+  "blur": "data:image/webp;base64,UklGRlgAAABXRUJQVlA4IEwAAACQBACdASoYACMAPu1oqk+ppaiiKqoBMB2JaQAAPY5sQrJG+Elae6pGDqTDJUAA/usgpyLnT6wZiGVYpIQ1mWuzYMccV16h/yTEAAAA"
+ },
+ "david-williams": {
+  "width": 761,
+  "height": 1254,
+  "sources": [
+   {
+    "w": 480,
+    "src": "/img/david-williams-480.webp"
+   },
+   {
+    "w": 761,
+    "src": "/img/david-williams-761.webp"
+   }
+  ],
+  "blur": "data:image/webp;base64,UklGRtYAAABXRUJQVlA4IMoAAADwBgCdASoYACcAPu1eqk8ppKOiKrgN+TAdiWoAnTLCRlALkxsuV5yJ8ggWRzDwwcTDz3aHZnc/Pa1xAFPe730AAP7D8my08bs+/DCXDN0Wr4bw9Sh/G0CNfw9cvex3lNKogDwxvHeWDMbbtBlZSUwsVgumc8YKQE96JnahnmboKedI0XFtMMoYg+9MImqTXRu2gIg3QU96U78LEYFBKx8zQdEtolgTrIfaU9hp+dn6ut/F/6dJvoxRK18Xg0JkKVdFv/2jh5BqAAAA"
+ },
+ "deed-handwritten": {
+  "width": 797,
+  "height": 1098,
+  "sources": [
+   {
+    "w": 480,
+    "src": "/img/deed-handwritten-480.webp"
+   },
+   {
+    "w": 797,
+    "src": "/img/deed-handwritten-797.webp"
+   }
+  ],
+  "blur": "data:image/webp;base64,UklGRmwAAABXRUJQVlA4IGAAAAAwBQCdASoYACEAPt1epU2opaOiNUgBEBuJZwDRgCzZ9nUUVXVg/4yyh31oXVKk+OioAAD+1pd/oamlXlaf4RXh24stE7zZTHR3y0eFsk63tezMfK2J+yYeurcia97igAA="
+ },
+ "election-1885": {
+  "width": 737,
+  "height": 1409,
+  "sources": [
+   {
+    "w": 480,
+    "src": "/img/election-1885-480.webp"
+   },
+   {
+    "w": 737,
+    "src": "/img/election-1885-737.webp"
+   }
+  ],
+  "blur": "data:image/webp;base64,UklGRmIAAABXRUJQVlA4IFYAAADQBACdASoYAC4APu1uqFEppqOjqrgKATAdiWkAABUY56c9u6wn/I5Ew0qr/XPW6ADJ40nd9ECHZ25EdGV7/vY1fQY1L6jWxTpaFPAz4QqZi3yqhIAAAA=="
+ },
+ "kalamazoo": {
+  "width": 759,
+  "height": 426,
+  "sources": [
+   {
+    "w": 480,
+    "src": "/img/kalamazoo-480.webp"
+   },
+   {
+    "w": 759,
+    "src": "/img/kalamazoo-759.webp"
+   }
+  ],
+  "blur": "data:image/webp;base64,UklGRmoAAABXRUJQVlA4IF4AAADwAwCdASoYAA4APu1Ct1apoqakGAEwHYlsAJ0ygAH3ZreX1Oih/vLyAP6zvAHP1hb2Q3HZ5baYysO5xYnHykIdxSA8Z8b63lmhv5p7CnpiO02SQapqpFsc18+DaLQA"
+ },
+ "lease-duckpond": {
+  "width": 625,
+  "height": 804,
+  "sources": [
+   {
+    "w": 480,
+    "src": "/img/lease-duckpond-480.webp"
+   },
+   {
+    "w": 625,
+    "src": "/img/lease-duckpond-625.webp"
+   }
+  ],
+  "blur": "data:image/webp;base64,UklGRlYAAABXRUJQVlA4IEoAAACQBACdASoYAB8APu1wr1KppiQiqAgBMB2JaQDHMAvKy6cY/Dgmwl+ctjJNukAAwtO+6013bJMl0XlXr9ORC6aRm7NB2aM+QAAAAA=="
+ }
+}
